@@ -19,7 +19,7 @@ Version Control: Git & GitHub
 📂 Repository Structure
 Plaintext
 FUTURE_DS_01/
-├── data/               # Contains the raw and cleaned data 
+├── data/               # Contains the explored data 
 ├── reports/            # Tableau dashboard screenshots
 ├── sql/                # MySQL schema definitions (schema.sql)
 ├── src/                # Python source code for ETL and Outlier Detection
